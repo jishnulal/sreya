@@ -7,7 +7,7 @@ class Chess_Board:
 
         for x in range(8):
             board_y =[]
-            for y in range(8):bjfyghikjyhkygh
+            for y in range(8):
 
                 board_y.append('.')
 
